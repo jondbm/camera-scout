@@ -1,0 +1,37 @@
+body {
+	padding-top:140px;
+	font-family:"Hammersmith One";
+}
+
+p {
+	font-size:1.3em;
+}
+h5 {
+	font-size:2em;line-height:1.5em;
+}
+
+a:hover {
+	color:#000000;
+}
+
+a {
+	color:#333333;
+}
+
+.logo {
+	font-size:5em;
+	font-style:italic;
+	font-weight:bold;
+	color:#ffffff;
+	line-height:1.1em;
+}
+
+.actions {
+	color:#000000;
+	margin-top:10px;
+	font-size:2em;
+}
+
+.navbar {
+	background-color:#999999;height:120px;
+}
